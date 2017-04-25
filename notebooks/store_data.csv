@@ -1,0 +1,16 @@
+DATE,CUSTOMER,ITEM,QUANTITY,"UNIT PRICE"
+2017-01-02,Alice,Milk,1,1
+2017-01-02,Alice,Orange,5,2
+2017-01-03,Bob,Banana,3,3
+2017-01-03,Bob,Orange,3,2
+2017-01-03,Alice,Apple,3,5
+2017-01-03,Alice,Banana,1,3
+2017-01-04,Alice,Milk,1,1
+2017-01-04,Alice,Banana,1,3
+2017-01-04,Charlie,"Gold nuggets",2,1000
+2017-01-04,Bob,Banana,1,3
+2017-01-05,Alice,Banana,1,3
+2017-01-05,Charlie,Banana,2,3
+2017-01-05,Bob,Orange,2,2
+2017-01-06,Bob,Orange,,2
+2017-01-06,Alice,Orange,2,
