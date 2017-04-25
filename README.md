@@ -16,7 +16,7 @@ Create and activate a `conda` environment:
     source activate packt-py36  # Linux / macOS
     activate packt-py36  # Windows
 
-Install the libraries used in the couse:
+Install the libraries used in the course:
 
     conda install --file conda-reqs.txt --yes
 
