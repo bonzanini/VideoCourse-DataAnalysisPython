@@ -1,7 +1,7 @@
 Data Analysis with Python
 =========================
 
-Companion code for my video course on Data Analysis with Python, published by Packt Publishing.
+Companion code for my video course on [Data Analysis with Python](https://www.packtpub.com/application-development/data-analysis-python-video), published by Packt Publishing.
 
 Setting up the environment
 -----
