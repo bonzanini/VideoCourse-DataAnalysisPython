@@ -3,6 +3,10 @@ Data Analysis with Python
 
 Companion code for my video course on [Data Analysis with Python](https://www.packtpub.com/application-development/data-analysis-python-video), published by Packt Publishing.
 
+Videos on [PacktPub's Mapt](https://www.packtpub.com/application-development/data-analysis-python-video) (the publisher)
+
+Videos on [OReilly's Safari Online](https://www.safaribooksonline.com/library/view/data-analysis-with/9781788290548/)
+
 Setting up the environment
 -----
 
@@ -23,6 +27,3 @@ Install the libraries used in the course:
 Launch Jupyter notebook:
 
     jupyter notebook
-
-
-
